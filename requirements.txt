@@ -1,0 +1,4 @@
+parsel==1.6.0
+requests==2.25.0
+arrow==1.1.0
+tqdm==4.60.0
